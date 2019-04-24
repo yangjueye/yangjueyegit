@@ -3,6 +3,24 @@
     "files": [
     ],
     "sub_directories": [
+        {
+            "name": "Hbase"
+        },
+        {
+            "name": "Hive"
+        },
+        {
+            "name": "ZooKeeper"
+        },
+        {
+            "name": "Storm"
+        },
+        {
+            "name": "Flume"
+        },
+        {
+            "name": "基础"
+        }
     ],
     "version": "1"
 }
