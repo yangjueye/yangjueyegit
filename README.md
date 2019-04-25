@@ -1,2 +1,0 @@
-# yangjueyegit
-## my java note
