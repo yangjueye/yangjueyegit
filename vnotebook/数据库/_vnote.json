@@ -3,6 +3,15 @@
     "files": [
     ],
     "sub_directories": [
+        {
+            "name": "JDBC"
+        },
+        {
+            "name": "MySql"
+        },
+        {
+            "name": "Redis"
+        }
     ],
     "version": "1"
 }
